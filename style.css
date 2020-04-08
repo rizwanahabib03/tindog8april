@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#title{
+
+  background-color: #ff4c68;
+
+  color: #fff;
+
+}
+
+body{
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+.navbar-brand{
+
+  font-size: 2.5rem !important;
+
+  font-weight: bold;
+
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+
+.nav-link{
+
+  font-size: 1.2rem !important;
+
+  font-weight: 100;
+
+  font-family: 'Montserrat', sans-serif;
+
+
+
+}
+
+h1{
+
+  font-size: 3.5rem !important;
+
+  font-weight: 900 !important;
+
+  line-height: 1.5 !important;
+
+}
+
+
+
+h2{
+
+  font-weight: bold !important;
+
+}
+
+h3{
+
+  font-weight: 700 !important;
+
+  font-size: 1.5rem !important;
+
+}
+
+p{
+
+  color: #8f8f8f !important;
+
+}
+
+.navbar{
+
+  padding: 2rem 0 4.5rem 0 !important;
+
+}
+
+
+
+.nav-item{
+
+  padding: 0 18px !important;
+
+}
+
+.download-button{
+
+ margin: 5% 3% 5% 0;
+
+}
+
+.title-image{
+
+  width: 60%;
+
+  margin-left:3rem;
+
+  position: absolute;
+
+  transform: rotate(25deg);
+
+  z-index: 1;
+
+}
+
+#features{
+
+  background-color: white;
+
+  position: relative;
+
+  z-index: 2;
+
+  margin: auto;
+
+  width: 70%;
+
+  padding-top: 20px;
+
+
+
+
+
+}
+
+
+
+
+
+@media(max-width: 990px){
+
+  .title-image{
+
+    transform: rotate(0deg);
+
+    position: static;
+
+    margin-right:3rem;
+
+    width: 80%;
+
+  }
+
+  #title{
+
+    text-align: center !important;
+
+  }
+
+}
+
+
+
+.brand-img{
+
+  width: 150px;
+
+  height:150px;
+
+}
+
+
+
+.extra-margin{
+
+  margin-top: 60px;
+
+}
+
+.carouselsimg{
+
+  width: 150px;
+
+  height:150px;
+
+  border-radius: 50%;
+
+  margin: auto;
+
+
+
+}
+
+#testimonials{
+
+  background-color: #ff4c68;
+
+  height: 400px;
+
+  margin: auto;
+
+  text-align: center;
+
+  color: white;
+
+}
+
+.carousel-item {
+
+  padding-top: 80px;
+
+
+
+}
+
+
+
+.carousel-inner{
+
+  text-align: center !important;
+
+  margin: auto !important;
+
+}
+
+.cn{
+
+  margin: auto;
+
+  width: 70%;
+
+  padding-bottom: 60px;
+
+}
+
+#press{
+
+  padding-top: 40px;
+
+  padding-bottom: 40px;
+
+  background-color: #ff4c68;
+
+  margin: auto;
+
+  text-align: center;
+
+}
+
+.press-images{
+
+  padding-left: 37px;
+
+  padding-right: 37px;
+
+  width: 270px;
+
+  height: 70px;
+
+}
+
+.x{
+
+  margin: auto;
+
+  width: 80%;
+
+}
+
+.card-body{
+
+  height: 230px;
+
+}
+#cta{
+  font-family: 'Montserrat',cursive;
+  font-size: 100px;
+  font-weight: bolder;
+  padding:50px;
+
+  color: white;
+  background-color: #ff4c68;
+  height: 300px;
+  width: 100%;
+  text-align: center;
+}
+#footer{
+
+text-align: center;
+padding: 20px;
+}
+.para1{
+
+}
